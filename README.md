@@ -14,12 +14,6 @@ Bu proje, ASP.NET Core Web API kullanılarak geliştirilmiş basit bir ürün y�
 - C#
 - Swagger/OpenAPI
 
-## Kurulum
-
-1. Projeyi klonlayın
-2. Visual Studio ile açın
-3. Projeyi çalıştırın
-
 ## API Endpoints
 
 ### Ürünler
